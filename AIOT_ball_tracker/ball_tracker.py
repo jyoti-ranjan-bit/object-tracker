@@ -4,7 +4,10 @@ import cv2
 import numpy as np
 
 # Define GPIO pins
- = OutputDevice(23)
+pin17 = OutputDevice(17)
+pin18 = OutputDevice(18)
+pin22 = OutputDevice(22)
+pin23 = OutputDevice(23)
 
 # Initialize video capture
 cap = cv2.VideoCapture(0)
