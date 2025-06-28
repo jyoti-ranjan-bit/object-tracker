@@ -97,7 +97,7 @@ This project involves creating a ball-tracking device using Raspberry Pi Zero. T
 
 ## Contributors
 - **Your Name**: Sourav Agrawal
-- **Your Team Members**: Rajddep Mohanty
+- **Your Team Members**: Rajddep Mohanty,Jyoti Ranjan Padhi
 
 ---
 
